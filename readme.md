@@ -17,4 +17,5 @@
 7. Creamos la sucesión de escenas con javascript con click
 8. Aplicamos animaciones a las escenas mediante css y js
 9. Aplicamos animaciones a los textos mediante css y js
-10. Hacemos una función y creamos eventos para barra de espacio o tecla intro
+10. Ponemos un efecto de sonido entre los cambios de escena
+11. Hacemos una función y creamos eventos para barra de espacio o tecla intro
