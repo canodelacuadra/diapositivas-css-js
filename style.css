@@ -56,6 +56,7 @@ body,
   background: url("imagenes/optimizadas/ayuntamiento.jpg");
   background-position: center center;
   background-size: cover;
+
 }
 @keyframes opacity-normal {
   from {
